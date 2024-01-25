@@ -1,0 +1,39 @@
+
+V	java:S106¤"9Replace this use of System.out or System.err by a logger.(Âæ“ú8åÑì¶/
+\
+java:S1117Â"9Rename "books" which hides the field declared at line 16.(äÁ¶öùÿÿÿÿ8åÑì¶/
+[	java:S106±"9Replace this use of System.out or System.err by a logger.(öÜ·¾ÿÿÿÿÿ8åÑì¶/
+V	java:S106×"9Replace this use of System.out or System.err by a logger.(ÙÊø8åÑì¶/
+[	java:S106î"9Replace this use of System.out or System.err by a logger.(Êò—‚ÿÿÿÿÿ8åÑì¶/
+[	java:S106ö"9Replace this use of System.out or System.err by a logger.(†“ò¡ÿÿÿÿÿ8ü“Òì¶/
+g
+java:S2095!"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ÇÇÎ—üÿÿÿÿ8úİè¶/
+[	java:S106»"9Replace this use of System.out or System.err by a logger.(öÜ·¾ÿÿÿÿÿ8åÑì¶/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(öÜ·¾ÿÿÿÿÿ8åÑì¶/
+[	java:S106®"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8åÑì¶/
+U	java:S106›"9Replace this use of System.out or System.err by a logger.(Ã¼Ü8åÑì¶/
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(¥…ìÊ8åÑì¶/
+[	java:S106Á"9Replace this use of System.out or System.err by a logger.(©¤Ïíûÿÿÿÿ8åÑì¶/
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(Ûç˜Âşÿÿÿÿ8Š“Óë¶/
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(”ğˆŸùÿÿÿÿ8Š“Óë¶/
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(öÜ·¾ÿÿÿÿÿ8Š“Óë¶/
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(öÜ·¾ÿÿÿÿÿ8Š“Óë¶/
+V	java:S106“"9Replace this use of System.out or System.err by a logger.(ŒÊı­8çÊãì¶/
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8åÑì¶/
+e
+java:S2259„"BA "NullPointerException" could be thrown; "book" is nullable here.(Ô”£øÿÿÿÿ8¡Œœì¶/
+V	java:S106İ"9Replace this use of System.out or System.err by a logger.(¿“•Ø8åÑì¶/
+V	java:S106ã"9Replace this use of System.out or System.err by a logger.(Öƒ–©8åÑì¶/
+[	java:S106Å"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8åÑì¶/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8åÑì¶/
+[	java:S106Í"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿ8åÑì¶/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(¡šŠ½úÿÿÿÿ8Š“Óë¶/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(öÜ·¾ÿÿÿÿÿ8åÑì¶/
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(öÜ·¾ÿÿÿÿÿ8Şå“ì¶/
+g
+java:S2095 "EUse try-with-resources or close this "Scanner" in a "finally" clause.(ñİ¹şÿÿÿÿ8”‰Áè¶/
+[	java:S106—"9Replace this use of System.out or System.err by a logger.(öÜ·¾ÿÿÿÿÿ8åÑì¶/
+q
+java:S1192s"ODefine a constant instead of duplicating this literal "Access denied" 10 times.(öÜ·¾ÿÿÿÿÿ8ö®¶ë¶/
+[	java:S106§"9Replace this use of System.out or System.err by a logger.(öÜ·¾ÿÿÿÿÿ8åÑì¶/
+[	java:S106Ñ"9Replace this use of System.out or System.err by a logger.(öÜ·¾ÿÿÿÿÿ8åÑì¶/

@@ -1,0 +1,12 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(À¬öÚ8àçá¸¶/
+v
+java:S3012+"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(şôœÂ8–±õª²/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(º›ø¢úÿÿÿÿ8ˆ§¸¶/
+U	java:S106<"9Replace this use of System.out or System.err by a logger.(©õ¶8Å‰«¸¶/
+o
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(’©Ü’8¼Òâ·¶/
+L
+java:S2885"*Make "dateFormatter" an instance variable.(œÓüÿÿÿÿ8ˆƒ¥¸¶/
+D
+java:S1125?"(Remove the literal "true" boolean value.(ú†Š8²¾³¸¶/

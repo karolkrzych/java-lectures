@@ -1,0 +1,39 @@
+
+Z	java:S106W"9Replace this use of System.out or System.err by a logger.(²ÎÊ–øÿÿÿÿ8º×Å¶/
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(©¤Ïíûÿÿÿÿ8Ä°âÂ¶/
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ªë¤°øÿÿÿÿ8¤ÎßÂ¶/
+o
+java:S1104"RMake cities a static final constant or non-public and provide accessors if needed.(“™´—8¢ïÉÅ¶/
+X
+java:S1444"6Make this "public static countriesIndexed" field final(î˜ˆşÿÿÿÿ8ØËÂÂ¶/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(³ë…¨8º×Å¶/
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(Šãû„øÿÿÿÿ8§ÛíÂ¶/
+q
+java:S1192H"ODefine a constant instead of duplicating this literal "Choose country" 3 times.(Šãû„øÿÿÿÿ8«ÑîÂ¶/
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ÆÀûı8›ìÅ¶/
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(Šãû„øÿÿÿÿ8«ÑîÂ¶/
+~
+java:S1104"\Make countriesIndexed a static final constant or non-public and provide accessors if needed.(î˜ˆşÿÿÿÿ8ØËÂÂ¶/
+9
+java:S2386"Make this member "protected".(›‹–j8ÖÊÂ¶/
+:
+java:S2386"Make this member "protected".(“™´—8¢ïÉÅ¶/
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(Šãû„øÿÿÿÿ8«ÑîÂ¶/
+:
+java:S2386"Make this member "protected".(ùËŸá8íÌ»Â¶/
+u
+java:S1104"YMake countriesList a static final constant or non-public and provide accessors if needed.(›‹–j8ÖÊÂ¶/
+O
+java:S1444"3Make this "public static countriesList" field final(›‹–j8ÖÊÂ¶/
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(¾òı³ùÿÿÿÿ8ş±ÍÂ¶/
+I
+java:S1444",Make this "public static cities" field final(“™´—8¢ïÉÅ¶/
+Q
+java:S1444"4Make this "public static nameCountryMap" field final(ùËŸá8ÙÃÃÂ¶/
+w
+java:S1104"ZMake nameCountryMap a static final constant or non-public and provide accessors if needed.(ùËŸá8ÙÃÃÂ¶/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(ÑÒÔÙ8ìÀÉÂ¶/
+?
+java:S2386"Make this member "protected".(î˜ˆşÿÿÿÿ8È¢ğÀ¶/
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Ì‚Îîøÿÿÿÿ8ºˆÍÅ¶/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(¢¼Ñ8ìÀÉÂ¶/

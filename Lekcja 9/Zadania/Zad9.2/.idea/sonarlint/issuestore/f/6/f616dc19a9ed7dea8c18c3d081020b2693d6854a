@@ -1,0 +1,15 @@
+
+L
+java:S1066S"/Merge this if statement with the enclosing one.(€²¸­8µÅ¹½­/
+t
+java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¾÷§ùÿÿÿÿ8‹–şº­/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(áÿöŸ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å‰ú
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Å‰ú
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ë²¨«
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØÒÑĞ
+-
+java:S1700"Rename field "map"(÷‚™ñşÿÿÿÿ
+¡
+java:S1130Y"Remove the declaration of thrown exception 'com.company.ImpossiblePuttingException', as it cannot be thrown from method's body.(¾÷§ùÿÿÿÿ8Ğ×¿½­/

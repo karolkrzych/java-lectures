@@ -1,0 +1,8 @@
+
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ë´åİşÿÿÿÿ8î„˜ƒ§/
+]	java:S125"<This block of commented-out lines of code should be removed.(™ÂÜµşÿÿÿÿ8Š±ƒ§/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ğ•¢©øÿÿÿÿ8Ï®ºƒ§/
+C	java:S131""Add a default case to this switch.(ë´åİşÿÿÿÿ8î„˜ƒ§/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼şÄÈ8Š±ƒ§/
+X	java:S125%"<This block of commented-out lines of code should be removed.(ËÇ¸¹8âñ¶ƒ§/

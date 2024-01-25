@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Datasource local storage ignored files
+/../../../../../../../../:\Mój dysk\szkolenia\Java\Lekcja 11\Zadania\Zad11.1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

@@ -1,0 +1,4 @@
+Programowanie JAVA;Artur Dobner;2021-01-01;RENT;2021-09-19
+Bajki dla dzieci;Jan Kowalski;2021-02-07;RENT;2021-08-19
+Prawdziwe opowiesci;Anna Zamojska;2021-03-06;RESERVED;-
+Historia prawdziwa;Konrad Firuzek;2021-04-05;FREE;-

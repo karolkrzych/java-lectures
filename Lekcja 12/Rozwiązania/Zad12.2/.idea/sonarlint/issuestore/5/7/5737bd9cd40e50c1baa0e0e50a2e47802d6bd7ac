@@ -1,0 +1,10 @@
+
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(Ôäçøÿÿÿÿ8ø­¬ë¶/
+D
+java:S2885"'Make "dateFormat" an instance variable.(şñ€½8ÁÓ‘é¶/
+U	java:S106S"9Replace this use of System.out or System.err by a logger.(ıÿâá8ìÁ®ë¶/
+T	java:S106E"9Replace this use of System.out or System.err by a logger.(¦ï8Éã˜é¶/
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(×¨Õ8»öîè¶/
+U	java:S106C"9Replace this use of System.out or System.err by a logger.(Äá´ì8Ú¾é¶/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(şñ€½8ÁÓ‘é¶/

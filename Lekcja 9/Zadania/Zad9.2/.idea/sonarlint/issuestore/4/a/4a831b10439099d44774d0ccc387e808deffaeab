@@ -1,0 +1,13 @@
+
+y	java:S127>"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼È²ûÿÿÿÿ8‘Î‡¾­/
+d
+java:S1192"IDefine a constant instead of duplicating this literal "cruisers" 3 times.(Ò½è½øÿÿÿÿ
+X	java:S125("<This block of commented-out lines of code should be removed.(¬…ÊÉ8ğÜë¾­/
+X	java:S125*"<This block of commented-out lines of code should be removed.(±Ğã²8ŠÙê¾­/
+`
+java:S1192"KDefine a constant instead of duplicating this literal "Destroyers" 5 times.(¶âİ4
+f
+java:S2147?"DCombine this catch with the one at line 61, which has the same body.(¦Œçõÿÿÿÿÿ8ô¤—¾­/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(ÖÙ•ó8‹‹á¾­/
+]	java:S125D"<This block of commented-out lines of code should be removed.(¿»„áüÿÿÿÿ8™Œ§¾­/
+y	java:S127@"XRefactor the code in order to not assign to this loop counter from within the loop body.(¼È²ûÿÿÿÿ8ÛŠ¾­/

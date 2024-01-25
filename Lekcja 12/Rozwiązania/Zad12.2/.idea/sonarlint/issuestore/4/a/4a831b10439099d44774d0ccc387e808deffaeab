@@ -1,0 +1,12 @@
+
+g
+java:S2259)"EA "NullPointerException" could be thrown; "library" is nullable here.(¡ô‹ÿÿÿÿÿ8¼øÖé¶/
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ƒµ¬é¶/
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(›”Æùÿÿÿÿÿ8Õ¦Şé¶/
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(ÆÀûı8†¾¨é¶/
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(¢¼Ñ8†¾¨é¶/
+E
+java:S1148!"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8…â¬é¶/
+E
+java:S1148#"#Use a logger to log this exception.(”¢¾¶øÿÿÿÿ8…â¬é¶/

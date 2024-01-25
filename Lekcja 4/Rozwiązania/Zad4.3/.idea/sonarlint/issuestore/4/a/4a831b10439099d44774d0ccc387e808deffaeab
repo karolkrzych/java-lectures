@@ -1,0 +1,12 @@
+
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(¯Óëéúÿÿÿÿ8Áâ…ÆÓ.
+g
+java:S1192$"JDefine a constant instead of duplicating this literal " Min to: " 3 times.(”¼Ü¼8š½„ÆÓ.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(Çµí‘8‰¡ûÅÓ.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(é’«ª8š½„ÆÓ.
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(”¼Ü¼8Ù±üÅÓ.
+h
+java:S1871"LThis branch's code block is the same as the block for the branch on line 13.(”Š‡08ºûâ“Ì/
+J	java:S108")Either remove or fill this block of code.(‚¯¬–üÿÿÿÿ8ºûâ“Ì/
+D	java:S108")Either remove or fill this block of code.(”Š‡08ºûâ“Ì/

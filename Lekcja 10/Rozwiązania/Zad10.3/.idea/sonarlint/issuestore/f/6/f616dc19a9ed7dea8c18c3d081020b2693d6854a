@@ -1,0 +1,19 @@
+
+^	java:S899#"BDo something with the "boolean" value returned by "createNewFile".(È¬–º8¾ğ¿ü±/
+Z	java:S106R"9Replace this use of System.out or System.err by a logger.(¬÷êèüÿÿÿÿ8¤ì÷ü±/
+U	java:S106Y"9Replace this use of System.out or System.err by a logger.(×´œŸ8ñ–åû±/
+f
+java:S2095&"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(Ö¬÷8îò¨ş±/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¥ˆ8±˜»û±/
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(ÚŒù²ùÿÿÿÿ8ÁÑŸû±/
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(ØíÏÈ8ÁÑŸû±/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(„–‘§úÿÿÿÿ8ÁÑŸû±/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(öÈÛ¡8ÁÑŸû±/
+V	java:S106‡"9Replace this use of System.out or System.err by a logger.(öÈÛ¡8ÁÑŸû±/
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(®ÎŠò8¼«ïû±/
+U	java:S106s"9Replace this use of System.out or System.err by a logger.(¤¡Úœ8¼«ïû±/
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(£²¹óÿÿÿÿÿ8¼«ïû±/
+b
+java:S2095="EUse try-with-resources or close this "Scanner" in a "finally" clause.( ÎÎü8ËÛü±/
+/
+java:S1700"Rename field "map"(ı‘æó8•üïú±/

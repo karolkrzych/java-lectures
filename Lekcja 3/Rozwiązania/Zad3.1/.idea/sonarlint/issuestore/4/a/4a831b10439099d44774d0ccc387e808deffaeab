@@ -1,0 +1,47 @@
+
+U
+java:S1197<"8Move the array designator from the variable to the type.(ã„©û8¥¯•ÄÓ.
+E
+java:S1125#"(Remove the literal "true" boolean value.(û¿ƒÉ8İ‘¯ÄÓ.
+B
+java:S2437" Remove this silly bit operation.(×¢°Ûÿÿÿÿÿ8Ç´©ÄÓ.
+l
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "&"(Âõ½ƒıÿÿÿÿ8Óâ¨ÄÓ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ8ŞÔ¿ÄÓ.
+h
+java:S1764)"KCorrect one of the identical sub-expressions on both sides of operator "=="(ÂÍèÃ8æ×¸ÄÓ.
+h
+java:S1764-"KCorrect one of the identical sub-expressions on both sides of operator ">="(Š¦á‹8×ÿ»ÄÓ.
+E
+java:S1125""(Remove the literal "true" boolean value.(ƒá‹º8İ‘¯ÄÓ.
+F
+java:S1125$")Remove the literal "false" boolean value.(¡íğ8Øÿ¯ÄÓ.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(˜³ù²ıÿÿÿÿ8¥¯•ÄÓ.
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(˜³ù²ıÿÿÿÿ8¥¯•ÄÓ.
+i
+java:S11925"GDefine a constant instead of duplicating this literal "Table[" 3 times.(˜³ù²ıÿÿÿÿ8¥¯•ÄÓ.
+T
+java:S2589""7Remove this expression which always evaluates to "true"(ƒá‹º8İ‘¯ÄÓ.
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ËŞõŒ8ŞÔ¿ÄÓ.
+g
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "^"(‡àÍÔ8¼œ£ÄÓ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ËŞõŒ8¬®¿ÄÓ.
+‰
+java:S1192
+"lDefine a constant instead of duplicating this literal "-------------------------------------------" 5 times.(ËŞõŒ8ŞÔ¿ÄÓ.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(ËŞõŒ8¿ÄÓ.
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(˜³ù²ıÿÿÿÿ8¥¯•ÄÓ.
+h
+java:S1764*"KCorrect one of the identical sub-expressions on both sides of operator "!="(×ßŞ8ÖÀ¹ÄÓ.
+Z
+java:S11974"8Move the array designator from the variable to the type.(·’Ú’ûÿÿÿÿ8¥¯•ÄÓ.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ËŞõŒ8Şî¿ÄÓ.
+T
+java:S2589#"7Remove this expression which always evaluates to "true"(û¿ƒÉ8İ‘¯ÄÓ.
+T
+java:S11978"8Move the array designator from the variable to the type.(›€ÔG8¥¯•ÄÓ.
+l
+java:S1764"JCorrect one of the identical sub-expressions on both sides of operator "/"(ø§“æúÿÿÿÿ8—‹’ÄÓ.

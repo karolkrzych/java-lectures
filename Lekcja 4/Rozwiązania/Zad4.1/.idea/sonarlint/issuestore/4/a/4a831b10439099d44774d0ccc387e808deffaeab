@@ -1,0 +1,16 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(İù%8ì°ÆÅÓ.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(­ƒØ8¿ûÙÅÓ.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(‰ıÇ’8ßˆáÅÓ.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(ª÷ÇÊ8ÍÿæÅÓ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­ıãÎ8’ÑÅÓ.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(³â¿8ÆßĞÅÓ.
+m
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ÄüÖûÿÿÿÿ8§áÎÅÓ.
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¿àıÚùÿÿÿÿ8³ƒäÅÓ.
+p
+java:S1192#"SDefine a constant instead of duplicating this literal "resultOfOperation=" 4 times.(‰ıÇ’8©ŞæÅÓ.
+g
+java:S1192"KDefine a constant instead of duplicating this literal "randomInt=" 4 times.(³â¿8ì°ÆÅÓ.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ßÃ¤‡ûÿÿÿÿ8©ŞæÅÓ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×ŠÚ—8ì°ÆÅÓ.

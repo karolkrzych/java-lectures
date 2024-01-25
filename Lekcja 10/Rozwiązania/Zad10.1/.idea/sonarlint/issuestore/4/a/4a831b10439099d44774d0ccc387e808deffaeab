@@ -1,0 +1,11 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ú‚ìûÿÿÿÿ8·Ê´æ­/
+^	java:S899"BDo something with the "boolean" value returned by "createNewFile".(Şÿæ8·Ê´æ­/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(À¦¨ì8·Ê´æ­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷™ş®şÿÿÿÿ8·Ê´æ­/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ÀÏ¤á8·Ê´æ­/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şÎáÍùÿÿÿÿ8·Ê´æ­/
+b
+java:S2095""EUse try-with-resources or close this "Scanner" in a "finally" clause.(Š¶Âû8·Ê´æ­/
+e
+java:S2095#"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(¡Õ¼K8·Ê´æ­/

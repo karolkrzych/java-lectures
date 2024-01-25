@@ -1,0 +1,8 @@
+
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(Ì‚Îîøÿÿÿÿ8™á”Â¶/
+n
+java:S1104"RMake cities a static final constant or non-public and provide accessors if needed.(¶å·}8—ñ¤À¶/
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( þÍ¾8—ñ¤À¶/
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ýÿÿÿÿ8ô—½À¶/
