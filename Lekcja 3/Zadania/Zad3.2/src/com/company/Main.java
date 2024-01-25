@@ -4,13 +4,13 @@ public class Main {
 
     public static void main(String[] args) {
         // calculate triangle field where a=31 and h=6
-        System.out.println(triangleField(31, 6));
+        System.out.println(triangleField(1.0, 1.0));
         // calculate trapeze field where a=13.21, b=213.56 and h=18
         System.out.println(trapezeField(13.21, 213.56, 18));
         // calculate factorial of 6
         System.out.println(calculateFactorial(6));
         // calculate circle field where r=100
-        System.out.println(calculateCircleField(100));
+        System.out.println(calculateCircleField(100.0));
         // calculate the rest of division from 123,90/11,08
         System.out.println(calculateRestOfDivision(23.90, 11.08));
         // check if 121 is completly divisible by 11
@@ -26,12 +26,12 @@ public class Main {
 
     }
     
-    public static double triangleField(int a, int h) {
-        return a * h / 2; 
+    public static double triangleField(double a, double h) {
+        return a * h / 2.0; 
     }
     
     public static double trapezeField(double a, double b, double h) {
-        return 2 * (a + b) / h; 
+        return ((a + b) * h) / 2.0; 
     }
 
     public static double calculateFactorial(int number) {
@@ -42,7 +42,7 @@ public class Main {
         return factorial;
     }
 
-    public static double calculateCircleField(int radius) {
+    public static double calculateCircleField(double radius) {
         return 3.14 * radius * radius;
     }
 
@@ -50,8 +50,8 @@ public class Main {
         return a % b;
     }
 
-    public static boolean checkIfCompletelyDivisable(int a, int b) {
-        return a % b == 0;
+    public static boolean checkIfCompletelyDivisable(double a, double b) {
+        return a % b == 0d;
     }
 
     public static double checkBigger(double a, double b) {
