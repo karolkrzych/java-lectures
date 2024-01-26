@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 13/Lekcja 13.iml" filepath="$PROJECT_DIR$/Lekcja 13/Lekcja 13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 10/Rozwiązania/Zad10.1/Zad10.1.iml" filepath="$PROJECT_DIR$/Lekcja 10/Rozwiązania/Zad10.1/Zad10.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 10/Zadania/Zad10.1/Zad10.11.iml" filepath="$PROJECT_DIR$/Lekcja 10/Zadania/Zad10.1/Zad10.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 10/Rozwiązania/Zad10.2/Zad10.2.iml" filepath="$PROJECT_DIR$/Lekcja 10/Rozwiązania/Zad10.2/Zad10.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 10/Zadania/Zad10.2/Zad10.21.iml" filepath="$PROJECT_DIR$/Lekcja 10/Zadania/Zad10.2/Zad10.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 10/Rozwiązania/Zad10.3/Zad10.3.iml" filepath="$PROJECT_DIR$/Lekcja 10/Rozwiązania/Zad10.3/Zad10.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 10/Zadania/Zad10.3/Zad10.31.iml" filepath="$PROJECT_DIR$/Lekcja 10/Zadania/Zad10.3/Zad10.31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 11/Zadania/Zad11.1/Zad11.1.iml" filepath="$PROJECT_DIR$/Lekcja 11/Zadania/Zad11.1/Zad11.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 11/Rozwiązania/Zad11.1/Zad11.11.iml" filepath="$PROJECT_DIR$/Lekcja 11/Rozwiązania/Zad11.1/Zad11.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 11/Zadania/Zad11.2/Zad11.2.iml" filepath="$PROJECT_DIR$/Lekcja 11/Zadania/Zad11.2/Zad11.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 11/Rozwiązania/Zad11.2/Zad11.21.iml" filepath="$PROJECT_DIR$/Lekcja 11/Rozwiązania/Zad11.2/Zad11.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 12/Zadania/Zad12.1/Zad12.1.iml" filepath="$PROJECT_DIR$/Lekcja 12/Zadania/Zad12.1/Zad12.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 12/Rozwiązania/Zad12.1/Zad12.11.iml" filepath="$PROJECT_DIR$/Lekcja 12/Rozwiązania/Zad12.1/Zad12.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 12/Zadania/Zad12.2/Zad12.2.iml" filepath="$PROJECT_DIR$/Lekcja 12/Zadania/Zad12.2/Zad12.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 12/Rozwiązania/Zad12.2/Zad12.21.iml" filepath="$PROJECT_DIR$/Lekcja 12/Rozwiązania/Zad12.2/Zad12.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 3/Zadania/Zad3.1/Zad3.1.iml" filepath="$PROJECT_DIR$/Lekcja 3/Zadania/Zad3.1/Zad3.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 3/Rozwiązania/Zad3.1/Zad3.11.iml" filepath="$PROJECT_DIR$/Lekcja 3/Rozwiązania/Zad3.1/Zad3.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 3/Zadania/Zad3.2/Zad3.2.iml" filepath="$PROJECT_DIR$/Lekcja 3/Zadania/Zad3.2/Zad3.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 3/Rozwiązania/Zad3.2/Zad3.21.iml" filepath="$PROJECT_DIR$/Lekcja 3/Rozwiązania/Zad3.2/Zad3.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 4/Rozwiązania/Zad4.1/Zad4.1.iml" filepath="$PROJECT_DIR$/Lekcja 4/Rozwiązania/Zad4.1/Zad4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 4/Zadania/Zad4.1/Zad4.11.iml" filepath="$PROJECT_DIR$/Lekcja 4/Zadania/Zad4.1/Zad4.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 4/Rozwiązania/Zad4.2/Zad4.2.iml" filepath="$PROJECT_DIR$/Lekcja 4/Rozwiązania/Zad4.2/Zad4.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 4/Zadania/Zad4.2/Zad4.21.iml" filepath="$PROJECT_DIR$/Lekcja 4/Zadania/Zad4.2/Zad4.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 4/Rozwiązania/Zad4.3/Zad4.3.iml" filepath="$PROJECT_DIR$/Lekcja 4/Rozwiązania/Zad4.3/Zad4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 4/Zadania/Zad4.3/Zad4.31.iml" filepath="$PROJECT_DIR$/Lekcja 4/Zadania/Zad4.3/Zad4.31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.1/Zad5.1.iml" filepath="$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.1/Zad5.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Rozwiązania/Zad5.1/Zad5.11.iml" filepath="$PROJECT_DIR$/Lekcja 5/Rozwiązania/Zad5.1/Zad5.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.2/Zad5.2.iml" filepath="$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.2/Zad5.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Rozwiązania/Zad5.2/Zad5.21.iml" filepath="$PROJECT_DIR$/Lekcja 5/Rozwiązania/Zad5.2/Zad5.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.3/Zad5.3.iml" filepath="$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.3/Zad5.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Rozwiązania/Zad5.3/Zad5.31.iml" filepath="$PROJECT_DIR$/Lekcja 5/Rozwiązania/Zad5.3/Zad5.31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.4/Zad5.4.iml" filepath="$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.4/Zad5.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Rozwiązania/Zad5.4/Zad5.41.iml" filepath="$PROJECT_DIR$/Lekcja 5/Rozwiązania/Zad5.4/Zad5.41.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.5/Zad5.5.iml" filepath="$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.5/Zad5.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Rozwiązania/Zad5.5/Zad5.51.iml" filepath="$PROJECT_DIR$/Lekcja 5/Rozwiązania/Zad5.5/Zad5.51.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.6/Zad5.6.iml" filepath="$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.6/Zad5.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.7/Zad5.7.iml" filepath="$PROJECT_DIR$/Lekcja 5/Zadania/Zad5.7/Zad5.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 6/Rozwiązania/Zad6.1/Zad6.1.iml" filepath="$PROJECT_DIR$/Lekcja 6/Rozwiązania/Zad6.1/Zad6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 6/Zadania/Zad6.1/Zad6.11.iml" filepath="$PROJECT_DIR$/Lekcja 6/Zadania/Zad6.1/Zad6.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 6/Rozwiązania/Zad6.2/Zad6.2.iml" filepath="$PROJECT_DIR$/Lekcja 6/Rozwiązania/Zad6.2/Zad6.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 6/Zadania/Zad6.2/Zad6.21.iml" filepath="$PROJECT_DIR$/Lekcja 6/Zadania/Zad6.2/Zad6.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 6/Rozwiązania/Zad6.3/Zad6.3.iml" filepath="$PROJECT_DIR$/Lekcja 6/Rozwiązania/Zad6.3/Zad6.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 6/Zadania/Zad6.3/Zad6.31.iml" filepath="$PROJECT_DIR$/Lekcja 6/Zadania/Zad6.3/Zad6.31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 7/Zadania/Zad7.1/Zad7.1.iml" filepath="$PROJECT_DIR$/Lekcja 7/Zadania/Zad7.1/Zad7.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 7/Rozwiązania/Zad7.1/Zad7.11.iml" filepath="$PROJECT_DIR$/Lekcja 7/Rozwiązania/Zad7.1/Zad7.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 7/Zadania/Zad7.2/Zad7.2.iml" filepath="$PROJECT_DIR$/Lekcja 7/Zadania/Zad7.2/Zad7.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 7/Rozwiązania/Zad7.2/Zad7.21.iml" filepath="$PROJECT_DIR$/Lekcja 7/Rozwiązania/Zad7.2/Zad7.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 7/Zadania/Zad7.3/Zad7.3.iml" filepath="$PROJECT_DIR$/Lekcja 7/Zadania/Zad7.3/Zad7.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 7/Rozwiązania/Zad7.3/Zad7.31.iml" filepath="$PROJECT_DIR$/Lekcja 7/Rozwiązania/Zad7.3/Zad7.31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 8/Rozwiązania/Zad8.1/Zad8.1.iml" filepath="$PROJECT_DIR$/Lekcja 8/Rozwiązania/Zad8.1/Zad8.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 8/Zadania/Zad8.1/Zad8.11.iml" filepath="$PROJECT_DIR$/Lekcja 8/Zadania/Zad8.1/Zad8.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 8/Rozwiązania/Zad8.2/Zad8.2.iml" filepath="$PROJECT_DIR$/Lekcja 8/Rozwiązania/Zad8.2/Zad8.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 8/Zadania/Zad8.2/Zad8.21.iml" filepath="$PROJECT_DIR$/Lekcja 8/Zadania/Zad8.2/Zad8.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 8/Rozwiązania/Zad8.3/Zad8.3.iml" filepath="$PROJECT_DIR$/Lekcja 8/Rozwiązania/Zad8.3/Zad8.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 8/Zadania/Zad8.3/Zad8.31.iml" filepath="$PROJECT_DIR$/Lekcja 8/Zadania/Zad8.3/Zad8.31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 9/Rozwiązania/Zad9.1/Zad9.1.iml" filepath="$PROJECT_DIR$/Lekcja 9/Rozwiązania/Zad9.1/Zad9.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 9/Zadania/Zad9.1/Zad9.11.iml" filepath="$PROJECT_DIR$/Lekcja 9/Zadania/Zad9.1/Zad9.11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 9/Rozwiązania/Zad9.2/Zad9.2.iml" filepath="$PROJECT_DIR$/Lekcja 9/Rozwiązania/Zad9.2/Zad9.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lekcja 9/Zadania/Zad9.2/Zad9.21.iml" filepath="$PROJECT_DIR$/Lekcja 9/Zadania/Zad9.2/Zad9.21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-lectures.iml" filepath="$PROJECT_DIR$/.idea/java-lectures.iml" />
+    </modules>
+  </component>
+</project>
