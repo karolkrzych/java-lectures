@@ -1,15 +1,13 @@
 package com.company;
 
+import com.company.Human.Hobby;
+import com.company.Human.Job;
+
 public class Main {
 
-    public static void main(String[] args) {
-	/* Create outside class Human with fields name, surname, age, high, wight
-	   Create inside public enums Job, Hobby and create fields for it in class Human
-	   Create outside enum AnimalType and add special field in human
-	   Add one methode to print on console all info about human
-	   Add constructor to initialize example human
-	   Use new class in Main class and use method for human to print all information
-	 */
+	public static void main(String[] args) {
 
-    }
+		Human human = new Human("Karol", "Krzych", 30, 173, 83, Job.PROGRAMMER, Hobby.GAMING, AnimalType.MAMMAL);
+		human.humanInfo();
+	}
 }
