@@ -2,13 +2,14 @@ package com.company;
 
 public class Figure {
 
-    protected FigureType[] types;
+    protected FigureTypes[] types;
 
-    public Figure(FigureType[] types) {
+    public Figure(FigureTypes[] types) {
         this.types = types;
     }
 
-    public FigureType[] getTypes() {
-        return types;
+    public FigureTypes[] getTypes() {
+        return this.types;
     }
+
 }

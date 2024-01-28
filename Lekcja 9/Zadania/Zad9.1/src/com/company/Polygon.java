@@ -3,30 +3,12 @@ package com.company;
 public class Polygon extends Figure {
 
     protected double base;
-    protected double high;
+    protected double height;
 
-    public Polygon(FigureType figureType, double base, double high) {
-        super(new FigureType[]{FigureType.POLYGON, figureType});
+    public Polygon(double base, double height, FigureTypes figureType) {
+        super(new FigureTypes[] { FigureTypes.POLYGON, figureType });
         this.base = base;
-        this.high = high;
+        this.height = height;
     }
-
-    public Polygon(FigureType[] figureTypes, double base, double high) {
-        super(addToFigureType(figureTypes, FigureType.POLYGON));
-        this.base = base;
-        this.high = high;
-    }
-
-    protected static FigureType[] addToFigureType(FigureType[] table, FigureType figureType) {
-        FigureType[] newTable = new FigureType[table.length];
-
-        for (int i = 0; i < table.length; i++) {
-            newTable[i] = table[i];
-        }
-
-        newTable[newTable.length - 1] = figureType;
-        return newTable;
-    }
-
 
 }
